@@ -10,6 +10,7 @@ package nss.buggyproject;
 
 //added something
 //from me
+//from master
 public class BuggyStringUtil {
 
 	
